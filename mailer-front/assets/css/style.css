@@ -1,0 +1,11 @@
+p {
+  color: red;
+}
+
+.new-class {
+  background-color: green;
+}
+
+.p-class {
+  border: 4px solid black;
+}
